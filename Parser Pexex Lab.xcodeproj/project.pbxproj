@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		444E413E1EB91FE9004CAF31 /* Parser Pexex Lab */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Parser Pexex Lab"; sourceTree = BUILT_PRODUCTS_DIR; };
 		444E41411EB91FE9004CAF31 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		444E41481EB925F4004CAF31 /* dataToParse.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = dataToParse.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				444E41411EB91FE9004CAF31 /* main.cpp */,
-				444E41481EB925F4004CAF31 /* dataToParse.txt */,
 			);
 			path = "Parser Pexex Lab";
 			sourceTree = "<group>";
