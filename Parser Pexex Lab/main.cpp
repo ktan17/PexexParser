@@ -38,6 +38,9 @@ int main(int argc, const char * argv[]) {
     
     while (getline(inputStream, stringToParse)) {
         
+        if (stringToParse == "---Type <return> to continue, or q <return> to quit---")
+            continue;
+        
         for (int i = 0; i < stringToParse.size(); i++) {
             
             if (skipAhead) {
